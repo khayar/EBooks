@@ -1,5 +1,7 @@
 <?php
+
 session_start();
+
 //error_reporting(1);
 // Include database connection
 require_once('global-connect.inc.php');
