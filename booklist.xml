@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<booklist>
+    <catalog name="Computer">
+        <book>
+            <title>Luckiest Girl Alive</title>
+            <isbn>1</isbn>
+            <author>Jessica Knoll</author>
+            <publisher>Publisher1</publisher>
+            <year>2000</year>
+            <price>129.99</price>
+            <image>luckiestgirlalive_big.png</image>
+            <description>HER PERFECT LIFE IS A PERFECT LIE. . .  
+
+                Ani FaNelli is the woman you love to hate. The woman who has it all. But behind the meticulously crafted façade lies the darkest and most violent of pasts . . .
+
+                When a documentary producer invites Ani to tell her side of the chilling and violent incident that took place when she was a teenager, she hopes it will be an opportunity to prove how far she's come since then. She'll even let the production company film her wedding to the wealthy Luke Harrison, the final step in her transformation.
+
+                But as the wedding and filming converge, Ani's immaculate façade begins to crack, and she soon realises that there's always a price to pay for perfection. 
+            </description>
+        </book>
+        <book>
+            <title>Paper Towns</title>
+            <isbn>2</isbn>
+            <author>John Green</author>
+            <publisher>Publiser2</publisher>
+            <year>2000</year>
+            <price>149.99</price>
+            <image>papertowns_big.png</image>
+            <description>The stunning film tie-in edition of Paper Towns, from the award-winning author of Looking for Alaska and The Fault in Our Stars.
+                Quentin Jacobsen - Q to his friends - is eighteen and has always loved the edgy Margo Roth Spiegelman. As children, they'd discovered a dead body together. Now at high school, Q's nerdy while Margo is uber-cool. One night, Q is basking in the predictable boringness of his life when Margo, dressed as a ninja, persuades him to partake in several hours of mayhem. then she vanishes.
+                While her family shrugs off this latest disappearance, Q follows Margo's string of elaborate clues - including a poem about death. Q's friends Radar, Ben and Lacey help with the search, and a post turns up on a website: Margo will be in a certain location for the next 24 hours only. the race is on! After an epic drive through the night, they catch up with Margo, and Q learns first-hand that the way you think about a person isn't the way they actually are.
+            </description>
+        </book>
+        <book>
+            <title>Turbo C</title>
+            <isbn>3</isbn>
+            <author>Lucman</author>
+            <publisher>Publisher3</publisher>
+            <year>2000</year>
+            <price>248.99</price>
+            <image>turboC.jpg</image>
+            <description>Borland C++ and Turbo C++ are two hot compilers from Borland International that almost every C programmer wants to have. And after getting the compilers, readers will definitely want this definitive, single resource that provides every Borland C++, Turbo C++, and Turbo C command, feature and programming technique.</description>
+        </book>
+        <book>
+            <title>The Dust</title>
+            <isbn>4</isbn>
+            <author>Louis de Bernieres</author>
+            <publisher>Publisher4</publisher>
+            <year>2000</year>
+            <price>134.99</price>
+            <image>thedust_big.png</image>
+            <description>In the brief golden years of King Edward VII's reign, Rosie McCosh and her three sisters are growing up in an idyllic and eccentric household in Kent, with their 'pals' the Pitt boys on one side of the fence and the Pendennis boys on the other. But their days of childhood innocence and adventure are destined to be followed by the apocalypse that will overwhelm their world as they come to adulthood.</description>
+        </book>
+    </catalog>
+    <catalog name="Education">
+        <book>
+            <title>Live Well on Less</title>
+            <isbn>5</isbn>
+            <author>Louis de Bernieres</author>
+            <publisher>Publisher1</publisher>
+            <year>2000</year>
+            <price>159.99</price>
+            <image>livewell_big.png</image>
+            <description>Want to put your money on a diet and save hundreds of dollars?
+                This book gives you the lowdown on spring-cleaning your finances so you can be frugal while still living well.
+                Jody Allen, of Stay at Home Mum fame, will help you set up your household budget, get the best deals, and save money on everything from your car to your clothes.
+                And with over 50 thrifty - but fabulous - recipes, you can be a cost cutter in the kitchen as well!
+                Inside you'll find:
+                - A room-by-room guide to household economy
+                - Hints and tips for getting organised
+                - Ideas for turning leftovers into delicious family meals
+                - Inspring stories from other savvy mums
+                - Get sorted and start saving!
+            </description>
+        </book>
+        <book>
+            <title>Sword of Summer</title>
+            <isbn>6</isbn>
+            <author>Gibbs</author>
+            <publisher>Publiser2</publisher>
+            <year>2000</year>
+            <price>169.99</price>
+            <image>swordofsummer_big.png</image>
+            <description>The first book in the incredible new series from the author of Percy Jackson, the Kane Chronicles and Heroes of Olympus.
+
+                Magnus Chase has always been a troubled kid. Since his mother's mysterious death, he's lived alone on the streets of Boston, surviving by his wits, keeping one step ahead of the police and the truant officers. One day, he's tracked down by an uncle he's never met - a man his mother claimed was dangerous. His uncle tells him an impossible secret: Magnus is the son of a Norse god. The Viking myths are true. The gods of Asgard are preparing for war. Trolls, giants and worse monsters are stirring for doomsday. To prevent Ragnarok, Magnus must search the Nine Worlds for a weapon that has been lost for thousands of years.
+            </description>
+        </book>
+        <book>
+            <title>Eat Real Food</title>
+            <isbn>7</isbn>
+            <author>David Gillespie</author>
+            <publisher>Publisher3</publisher>
+            <year>2000</year>
+            <price>286.99</price>
+            <image>eatrealfood_big.png</image>
+            <description>In the last 100 years, we've become fatter and sicker with millions of people developing serious diseases from diabetes to cancer. Health gurus confuse us with complex diets and expensive ingredients; food manufacturers load their products with addictive and destructive ingredients causing our increasing weight and declining health. But help is at hand. Health and consumer advocate David Gillespie shares the simple secret of weight loss and wellbeing: swap processed food for REAL FOOD.</description>
+        </book>
+        <book>
+            <title>My Life</title>
+            <isbn>8</isbn>
+            <author>Willie Nelson</author>
+            <publisher>Publisher4</publisher>
+            <year>2000</year>
+            <price>1334.99</price>
+            <image>mylife_big.png</image>
+            <description>The definitive autobiography of Willie Nelson
+
+                This is the unvarnished, complete story of Willie Nelson's life, told in his distinct voice and leaving no moment or experience unturned, from Texas and Nashville to Hawaii and his legendary bus.
+
+                Having recently turned 80, Nelson is ready to shine on a light on all aspects of his life, including his drive to write music, the women in his life, his collaborations, and his biggest lows and highs-from his bankruptcy to the founding of Farm Aid.
+            </description>
+        </book>
+    </catalog>
+    <catalog name="Misc">
+        <book>
+            <title>Sword of Summer</title>
+            <isbn>9</isbn>
+            <author>Rick Riordan</author>
+            <publisher>Publisher1</publisher>
+            <year>2000</year>
+            <price>1411.99</price>
+            <image>swordofsummer_big.png</image>
+            <description>The first book in the incredible new series from the author of Percy Jackson, the Kane Chronicles and Heroes of Olympus.
+
+                Magnus Chase has always been a troubled kid. Since his mother's mysterious death, he's lived alone on the streets of Boston, surviving by his wits, keeping one step ahead of the police and the truant officers. One day, he's tracked down by an uncle he's never met - a man his mother claimed was dangerous. His uncle tells him an impossible secret: Magnus is the son of a Norse god. The Viking myths are true. The gods of Asgard are preparing for war. Trolls, giants and worse monsters are stirring for doomsday. To prevent Ragnarok, Magnus must search the Nine Worlds for a weapon that has been lost for thousands of years.
+            </description>
+        </book>
+        <book>
+            <title>Clementine Rose</title>
+            <isbn>10</isbn>
+            <author>Jacqueline Harvey</author>
+            <publisher>Publiser2</publisher>
+            <year>2000</year>
+            <price>1212.99</price>
+            <image>clementinerose_big.png</image>
+            <description>Will an unexpected emergency ruin Clementine's party plans?
+
+                Clementine Rose is counting down the days until her birthday party. But first there's the school sports carnival to attend and a very special race to run. There's also the all-important party theme to decide on!
+
+                Amid all the excitement, Lavender doesn't seem her usual self. A trip to the vet is in store, and now Clementine has butterflies in her tummy for all the wrong reasons. Will Lavender be able to attend the party? And why Aunt Violet is acting so mysteriously?
+            </description>
+        </book>
+        <book>
+            <title>Middle School</title>
+            <isbn>11</isbn>
+            <author>James Patterson</author>
+            <publisher>Publisher3</publisher>
+            <year>2000</year>
+            <price>7248.99</price>
+            <image>middleschool_big.png</image>
+            <description>The seventh novel in James Patterson's bestselling Middle School series
+
+                In this seventh Middle School episode, Rafe heads back to the place his misadventures began: the dreaded Hills Village Middle School, where he's now being forced to take 'special' classes... He also finds himself joining the school's football team – alongside his main tormenter, Miller the Killer!
+
+                But Rafe has grand plans for a better year: First, he decides to start a super-secret art project that's sure to rock the school. Then, if Rafe manages to make a play to save his team, he might have to deal with something completely new: popularity!
+            </description>
+        </book>
+        <book>
+            <title>Computational Science</title>
+            <isbn>12</isbn>
+            <author>Angela B. Shiflet, George W. Shiflet</author>
+            <publisher>Publisher4</publisher>
+            <year>2000</year>
+            <price>134.99</price>
+            <image>introtocomputer_big.png</image>
+            <description>Computational science is a quickly emerging field at the intersection of the sciences, computer science, and mathematics because much scientific investigation now involves computing as well as theory and experiment. However, limited educational materials exist in this field. "Introduction to Computational Science" fills this void with a flexible, readable textbook that assumes only a background in high school algebra and enables instructors to follow tailored pathways through the material. It is the first textbook designed specifically for an introductory course in the computational science and engineering curriculum</description>
+        </book>
+    </catalog>
+</booklist>
